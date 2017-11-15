@@ -1,0 +1,10 @@
+In The Host ADD the new virtually hosted websites
+
+
+vi /etc/hosts
+
+127.0.0.1 myapp1.com www.myapp1.com
+127.0.0.1 myapp2.com www.myapp2.com
+
+
+
